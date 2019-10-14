@@ -14,6 +14,6 @@ public class ToUpperCase {
     }
 
     public static void main(String[] args) {
-        System.out.println(MakeUpperCase("hello"));
+        System.out.println(MakeUpperCase("hello" ));
     }
 }
